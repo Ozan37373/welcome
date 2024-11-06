@@ -1,19 +1,16 @@
 {
     "DEFAULTS": {
-        "AUTHORS": ["ownerid"],
-        "ACTIVITY_TEXT": "Durum Yazısı",
-        "GUILD_ID": "Sunucu id",
-        "VOICE_CHANNEL": "Gireceği kanal id",
-        "MIN_STAFF_ROLE": "En düşük yetki rolü / kayıtçı id yani"
+        "AUTHORS": ["1218558079063425064"],
+        "ACTIVITY_TEXT": "sea",
+        "GUILD_ID": "1303428490858598541",
+        "VOICE_CHANNEL": "1303428490858598545",
+        "MIN_STAFF_ROLE": "1303738932386598952"
     },
     "FILES": {
         "WELCOME": "default_files/Welcome.mp3",
         "STAFF": "default_files/Staff.mp3"
     },
-    "TOKEN": "bottoken"
-
-
-
+    "TOKEN": "MTI5OTcyNTg1NzMxNjkyOTUzOA.Gd6x0q.ORmdYd5SNA-PVVgJEKi7GkEFRv4npe7Th7duaM"
 }
 
 
